@@ -1,40 +1,52 @@
-<<<<<<< HEAD
 # Retail-Omni-Assistant
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+A modern, multi-page retail assistant web app inspired by Walmart, built with Next.js, React, and Tailwind CSS.
+
+## Overview
+Retail-Omni-Assistant is a demo project showcasing an omni-channel retail assistant experience, featuring voice interaction, customer journey visualization, AR guidance mockups, and a tech stack showcase. The UI is styled with Walmart's signature blue and yellow for a familiar, clean look.
+
+## Features
+- **Multi-page Next.js app**: Home, Demo, Journey, Tech, Impact, Team
+- **Walmart-inspired design**: Blue (#0071ce), yellow (#ffc220), white backgrounds, clean fonts
+- **Responsive shared navbar**: With active page highlighting
+- **Home page**: Hero section, delayed assistant message, floating voice assistant button
+- **Demo page**: Voice assistant with transcript and product suggestions
+- **Journey page**: AR guidance mockup, parallax customer journey panels
+- **Tech page**: Two-column tech stack with icons and code snippets
+- **Modern React best practices**: Client/server components, hooks, animations
+
+## Tech Stack
+- **Frontend**: Next.js (App Router), React, Tailwind CSS
+- **Voice Assistant**: Web Speech API, lucide-react icons
+- **Animations**: Framer Motion
+- **Backend/Logic**: JSON-based, mock data
+- **Extras**: AR mockups (SVG), glassmorphism, parallax scroll
 
 ## Getting Started
 
-First, run the development server:
+1. **Install dependencies**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+2. **Run the development server**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Deployment
+Deploy easily on [Vercel](https://vercel.com/) or your preferred platform. See [Next.js deployment docs](https://nextjs.org/docs/app/building-your-application/deploying).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## License
+[MIT](LICENSE)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> a978c48 (Initial commit from Create Next App)
+## Links
+- [Live Demo](#) <!-- Add your live site URL here if deployed -->
+- [GitHub Repo](https://github.com/srijitac1/Retail-Omni-Assistant)
