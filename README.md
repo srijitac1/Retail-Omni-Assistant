@@ -22,22 +22,6 @@ Retail-Omni-Assistant is a demo project showcasing an omni-channel retail assist
 - **Backend/Logic**: JSON-based, mock data
 - **Extras**: AR mockups (SVG), glassmorphism, parallax scroll
 
-## Getting Started
-
-1. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-2. **Run the development server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
