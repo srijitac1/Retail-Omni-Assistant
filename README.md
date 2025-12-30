@@ -38,9 +38,6 @@ Retail-Omni-Assistant is a demo project showcasing an omni-channel retail assist
    ```
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Deployment
-Deploy easily on [Vercel](https://vercel.com/) or your preferred platform. See [Next.js deployment docs](https://nextjs.org/docs/app/building-your-application/deploying).
-
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
