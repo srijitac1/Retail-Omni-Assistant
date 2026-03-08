@@ -27,7 +27,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## License
 [MIT](LICENSE)
-
-## Links
-- [Live Demo](#) <!-- Add your live site URL here if deployed -->
-- [GitHub Repo](https://github.com/srijitac1/Retail-Omni-Assistant)
